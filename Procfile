@@ -1,2 +1,2 @@
 heroku ps:scale web=1:Basic
-worker: python worker.py
+worker: python teletips_set.py
