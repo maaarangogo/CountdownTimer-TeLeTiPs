@@ -1,1 +1,1 @@
-worker: python teletips_set.py
+heroku ps:scale web=2
