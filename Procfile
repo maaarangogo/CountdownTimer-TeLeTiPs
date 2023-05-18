@@ -1,1 +1,1 @@
-heroku ps:type worker=basic
+heroku ps:scale web=1:Basic
