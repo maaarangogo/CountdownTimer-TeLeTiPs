@@ -1,2 +1,2 @@
-web: gunicorn myapp:app
+web: gunicorn ourcountdownbot:app
 worker: python teletips_set.py
